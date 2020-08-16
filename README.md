@@ -15,7 +15,7 @@ Competitive_Programming
    
     
 ## Getting Started
- ##| Name | Description |
+| Name | Description |
 | --- | --- |
 | [Code Monk](https://www.hackerearth.com/practice/codemonk/), by HackerEarth | A fantastic step-by-step tutorial on the essential topics in competitive programming. |
 | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
