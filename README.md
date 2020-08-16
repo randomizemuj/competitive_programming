@@ -28,4 +28,43 @@ Competitive_Programming
   [Nick White]( https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA "Nick White")
 
   [Alex Wice]( https://www.twitch.tv/alexwice "Alex Wice")
+  
+  
+## Online Judges ##
+
+  [Codechef]( https://www.codechef.com/ "Codechef")
+  Long Challenge starts from first Friday of every month and lasts for 10 days. 
+  Problems are divided into different datasets where difficulty increases as dataset grows larger.
+       
+   Cook off is a short contest with duration of two and half hours. Happens on Sunday after Codechef Long ends.
+
+   Lunchtime is also a short contest with       duration of three hours.
+  
+   [Codeforces]( https://codeforces.com/ "Codeforces")-6 to 10 contests every month with duration of 2 hours.
+
+  [Atcoder]( https://atcoder.jp/ "Atcoder")- 3 to 4 contests every month with duration of 100 minutes. Created by a team of highly-rated Japanese competitive programmers.
+
+  [Topcoder](https://www.topcoder.com/) - 2 to 3 contests every month with duration of 90 minutes. Considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and Topcoder therefore appeals to many elite programmers. The annual Topcoder Open (TCO) is also a widely-discussed event.
+
+[Google Code Jam](https://code.google.com/codejam/) | Highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions. 
+
+
+[Hackerearth](https://www.hackerearth.com/)
+
+[Project Euler](https://projecteuler.net/) Project Euler features a stunning set of good math problems.
+
+[HackerRank](https://www.hackerrank.com)
+
+
+[SPOJ](https://www.spoj.com/) | The SPOJ platform is centered around an online judge system. It holds a staggering amount of problems prepared by its community of problem setters or taken from previous programming contests, some of which are great problems for practice (refer to the [Problem classifiers](#problem-classifiers) section). SPOJ also allows advanced users to organize contests under their own rules.
+
+
+
+### Interview Questions
+| Name | Description |
+| --- | --- |
+| [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
+| [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
+| [LeetCode](https://leetcode.com) | Well-organized website for software engineering interview preparation with best explanined solutions.  |
+
 
