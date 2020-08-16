@@ -33,18 +33,18 @@ Competitive_Programming
 ## Online Judges ##
 
   [Codechef]( https://www.codechef.com/ "Codechef")
-  Long Challenge starts from first Friday of every month and lasts for 10 days. 
-  Problems are divided into different datasets where difficulty increases as dataset grows larger.
-       
-   Cook off is a short contest with duration of two and half hours. Happens on Sunday after Codechef Long ends.
-
-   Lunchtime is also a short contest with       duration of three hours.
+  *Long Challenge starts from first Friday of every month and lasts for 10 days. 
+  *Problems are divided into different datasets where difficulty increases as dataset grows larger.
+  *Cook off is a short contest with duration of two and half hours. Happens on Sunday after Codechef Long ends.
+  *Lunchtime is also a short contest with duration of three hours.
   
    [Codeforces]( https://codeforces.com/ "Codeforces")-6 to 10 contests every month with duration of 2 hours.
 
-  [Atcoder]( https://atcoder.jp/ "Atcoder")- 3 to 4 contests every month with duration of 100 minutes. Created by a team of highly-rated Japanese competitive programmers.
+  [Atcoder]( https://atcoder.jp/ "Atcoder")- 3 to 4 contests every month with duration of 100 minutes. Created by a team of highly-rated Japanese competitive     programmers.
 
-  [Topcoder](https://www.topcoder.com/) - 2 to 3 contests every month with duration of 90 minutes. Considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and Topcoder therefore appeals to many elite programmers. The annual Topcoder Open (TCO) is also a widely-discussed event.
+  [Topcoder](https://www.topcoder.com/) - 
+*2 to 3 contests every month with duration of 90 minutes. 
+*Considered to be one of the most prestigious organizations when it comes to technology competitions. Hundreds of SRMs gave birth to an abundant problemset. Problems here are typically more challenging than others and Topcoder therefore appeals to many elite programmers. T
 
 [Google Code Jam](https://code.google.com/codejam/) | Highly-esteemed programming competitions. The competition consists of unique programming challenges which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions. 
 
