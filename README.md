@@ -38,20 +38,20 @@ Competitive_Programming
   
 ## Online Judges ##
 
-  [Codechef]( https://www.codechef.com/ "Codechef")
+[Codechef]( https://www.codechef.com/ "Codechef")
 
   * Long Challenge starts from first Friday of every month and lasts for 10 days. 
   * Problems are divided into different datasets where difficulty increases as dataset grows larger.
   * Cook off is a short contest with duration of two and half hours. Happens on Sunday after Codechef Long ends.
   * Lunchtime is also a short contest with duration of three hours.
   
-   [Codeforces]( https://codeforces.com/ "Codeforces")
+[Codeforces]( https://codeforces.com/ "Codeforces")
 * 6 to 10 contests every month with duration of 2 hours.
 
-  [Atcoder]( https://atcoder.jp/ "Atcoder")
+[Atcoder]( https://atcoder.jp/ "Atcoder")
 * 3 to 4 contests every month with duration of 100 minutes. Created by a team of highly-rated Japanese competitive     programmers.
 
-  [Topcoder](https://www.topcoder.com/) - 
+[Topcoder](https://www.topcoder.com/) - 
 * 2 to 3 contests every month with duration of 90 minutes. 
 * Considered to be one of the most prestigious organizations when it comes to technology competitions.
 * Problems here are typically more challenging than others and Topcoder therefore appeals to many elite programmers.
