@@ -9,9 +9,10 @@ Competitive_Programming
   [Competitive Programming Handbook](https://drive.google.com/file/d/1ZXkZpD4wor3UFezNjCYffuzvrU6awF83/view?usp=sharing "Competitive Programming Handbook")
 
 ## Programming Languages ##
-    CPP- Fastest, High Learning Curve
-    Java -2 times slower than CPP, High Learning Curve, Support for bigint
-    Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String Manipulation and bigint
+CPP- Fastest, High Learning Curve
+[Guide] (https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+Java -2 times slower than CPP, High Learning Curve, Support for bigint
+Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String Manipulation and bigint
    
     
 ## Getting Started
