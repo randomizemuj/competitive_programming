@@ -4,9 +4,9 @@ Competitive_Programming
 - - - - 
 # Recommended Resources #
 
-    [Introduction to Algorithms: 3rd Edition](https://drive.google.com/file/d/1v7LE_C5JRj1iSYfA3tQ8x4hKYY7kut9c/view?usp=sharing "Introduction To Algorithm")
+  [Introduction to Algorithms: 3rd Edition](https://drive.google.com/file/d/1v7LE_C5JRj1iSYfA3tQ8x4hKYY7kut9c/view?usp=sharing "Introduction To Algorithm")
 
-    Competitive Programming Handbook
+   Competitive Programming Handbook
     https://drive.google.com/file/d/1ZXkZpD4wor3UFezNjCYffuzvrU6awF83/view?usp=sharing
 
 
