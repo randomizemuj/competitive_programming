@@ -8,7 +8,10 @@ Competitive_Programming
 
   [Competitive Programming Handbook](https://drive.google.com/file/d/1ZXkZpD4wor3UFezNjCYffuzvrU6awF83/view?usp=sharing "Competitive Programming Handbook")
 
-
+## Programming Languages ##
+    CPP- Fastest, High Learning Curve
+    Java -2 times slower than CPP, High Learning Curve, Support for bigint
+    Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String Manipulation and bigint
    
     
 ## Getting Started ##
@@ -96,3 +99,6 @@ Competitive_Programming
 5.  [Facebook HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup)
 
 6.  [Codechef Snackdown](https://www.codechef.com/snackdown)
+
+
+
