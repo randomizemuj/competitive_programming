@@ -1,4 +1,4 @@
-##Code Of Conduct##
+##Code Of Conduct
 
 1.  Be Nice to each other, Respectful and Constructive- Members should feel to share their ideas, opinions,
 their work with community. Accusing someone, insulting someone’s work or other personal attack will
@@ -26,7 +26,7 @@ Hence, we encourage members to share such stuffs.
 8.  We do not favor any specific programming language for coding, it depends upon on the member to
 choose one, but we highly recommend selecting any one from Java, C/C++, Python.
 
-##During an On-Going Contest##
+##During an On-Going Contest
 1.  Taking part any contest, member must ensure to maintain full privacy of his code. He must further avoid
 sharing the code in the group, with friends, or any random person.
 
