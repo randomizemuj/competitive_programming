@@ -82,3 +82,15 @@ Competitive_Programming
 | [LeetCode](https://leetcode.com) | Well-organized website for software engineering interview preparation with best explanined solutions.  |
 
 
+## Annual Programming Contests ##
+[Topcoder TCO Algorithm Competition](https://tco20.topcoder.com/competition-overview/algorithm/algorithm-rules)
+
+[ACM ICPC](https://icpc.global/)
+
+[Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
+
+[Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+
+[Facebook HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup)
+
+[Codechef Snackdown](https://www.codechef.com/snackdown)
