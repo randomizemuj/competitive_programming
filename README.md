@@ -1,6 +1,7 @@
-# Competitive_Programming
+#Competitive_Programming#
 
-#Recommended Resources#
+##Recommended Resources##
+
 Introduction to Algorithms: 3rd Edition
 https://drive.google.com/file/d/1v7LE_C5JRj1iSYfA3tQ8x4hKYY7kut9c/view?usp=sharing
 
