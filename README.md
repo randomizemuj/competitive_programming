@@ -45,9 +45,11 @@ Competitive_Programming
   * Cook off is a short contest with duration of two and half hours. Happens on Sunday after Codechef Long ends.
   * Lunchtime is also a short contest with duration of three hours.
   
-   [Codeforces]( https://codeforces.com/ "Codeforces")-6 to 10 contests every month with duration of 2 hours.
+   [Codeforces]( https://codeforces.com/ "Codeforces")
+* 6 to 10 contests every month with duration of 2 hours.
 
-  [Atcoder]( https://atcoder.jp/ "Atcoder")- 3 to 4 contests every month with duration of 100 minutes. Created by a team of highly-rated Japanese competitive     programmers.
+  [Atcoder]( https://atcoder.jp/ "Atcoder")
+* 3 to 4 contests every month with duration of 100 minutes. Created by a team of highly-rated Japanese competitive     programmers.
 
   [Topcoder](https://www.topcoder.com/) - 
 * 2 to 3 contests every month with duration of 90 minutes. 
