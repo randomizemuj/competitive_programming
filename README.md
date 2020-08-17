@@ -27,13 +27,9 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 | --- | --- |
 |[My Code School]( https://www.youtube.com/user/mycodeschool "My Code School")  | General DSA |
 | [Errichto]( https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg "Errichto") | Tutorials related to DSA used in Competitive programming screencast of contest |
-
 | [Tushar Coding Made Simple]( https://www.youtube.com/user/tusharroy2525 "Tushar Coding Made Simple") | Walkthrough of algorithms using testcases |
-
 | [Gaurav Sen]( https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw "Gaurav Sen") | Problems Editorials and DSA |
-
 | [Nick White]( https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA "Nick White") | Leetcode Solution |
-
 |  [Alex Wice]( https://www.twitch.tv/alexwice "Alex Wice") | For Discussion regarding Leetcode Contests |
   
   
