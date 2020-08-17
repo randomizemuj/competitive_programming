@@ -25,7 +25,7 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 | [Code Monk](https://www.hackerearth.com/practice/codemonk/), by HackerEarth | A fantastic step-by-step tutorial on the essential topics in competitive programming. |
 | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 | [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)|Document to guide those people who want to get started or have just started with competitive programming. |
-
+| [Visual Algo](ttps://visualgo.net/en) | visualising data structures and algorithms through animation |
 ## Video Tutorials ##
 | Name | Description |
 | --- | --- |
