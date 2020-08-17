@@ -37,8 +37,7 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 | Name | Description |
 | --- | --- |
 |1.  [Codechef]( https://www.codechef.com/ "Codechef")|
-
-  * Long Challenge starts from first Friday of every month and lasts for 10 days. 
+ * Long Challenge starts from first Friday of every month and lasts for 10 days. 
   * Problems are divided into different datasets where difficulty increases as dataset grows larger.
   * Cook off is a short contest with duration of two and half hours. Happens on Sunday after Codechef Long ends.
   * Lunchtime is also a short contest with duration of three hours.|
