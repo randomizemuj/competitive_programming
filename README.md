@@ -9,11 +9,13 @@ Competitive_Programming
   [Competitive Programming Handbook](https://drive.google.com/file/d/1ZXkZpD4wor3UFezNjCYffuzvrU6awF83/view?usp=sharing "Competitive Programming Handbook")
 
 ## Programming Languages ##
-CPP- Fastest, High Learning Curve
+CPP- Fastest, High Learning Curve [CP_Algorithm](https://cp-algorithms.com/)
 
 Java -2 times slower than CPP, High Learning Curve, Support for bigint
 
 Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String Manipulation and bigint
+
+[a side-by-side reference sheet](https://hyperpolyglot.org/cpp)
    
     
 ## Getting Started
@@ -52,6 +54,7 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 | Name | Description |
 | --- | --- |
 | [LeetCode](https://leetcode.com) | Well-organized website for software engineering interview preparation with best explanined solutions.  |
+| [Daily Coding Problem](https://www.dailycodingproblem.com/) | Get exceptionally good at coding interviews by solving one problem every day. |
 
 
 ## Annual Programming Contests ##
