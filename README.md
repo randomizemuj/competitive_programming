@@ -86,8 +86,6 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 ### Interview Questions
 | Name | Description |
 | --- | --- |
-| [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
-| [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
 | [LeetCode](https://leetcode.com) | Well-organized website for software engineering interview preparation with best explanined solutions.  |
 
 
