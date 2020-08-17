@@ -10,7 +10,6 @@ Competitive_Programming
 
 ## Programming Languages ##
 CPP- Fastest, High Learning Curve
-[Guide](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 Java -2 times slower than CPP, High Learning Curve, Support for bigint
 
