@@ -104,5 +104,7 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 
 6.  [Codechef Snackdown](https://www.codechef.com/snackdown)
 
+## Syllabus
+[How to prepare for ACM - ICPC? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/) | A detailed walk-through of the preparations for ACM-ICPC. 
 
 Contributor:[Dushyant Singh](https://github.com/dush1729)
