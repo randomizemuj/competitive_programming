@@ -23,24 +23,18 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 
 ## Video Tutorials ##
-  
-1.  [My Code School]( https://www.youtube.com/user/mycodeschool "My Code School")
-* General DSA
+| Name | Description |
+| --- | --- |
+|[My Code School]( https://www.youtube.com/user/mycodeschool "My Code School")  | General DSA |
+| [Errichto]( https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg "Errichto") | Tutorials related to DSA used in Competitive programming screencast of contest |
 
-2.  [Errichto]( https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg "Errichto")
-* Tutorials related to DSA used in Competitive programming screencast of contest
+| [Tushar Coding Made Simple]( https://www.youtube.com/user/tusharroy2525 "Tushar Coding Made Simple") | Walkthrough of algorithms using testcases |
 
-3.  [Tushar Coding Made Simple]( https://www.youtube.com/user/tusharroy2525 "Tushar Coding Made Simple")
-* Walkthrough of algorithms using testcases
+| [Gaurav Sen]( https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw "Gaurav Sen") | Problems Editorials and DSA |
 
-4.  [Gaurav Sen]( https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw "Gaurav Sen")
-*  Problems Editorials and DSA
+| [Nick White]( https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA "Nick White") | Leetcode Solution |
 
-5.  [Nick White]( https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA "Nick White")
-* Leetcode Solution
-
-6.  [Alex Wice]( https://www.twitch.tv/alexwice "Alex Wice")
-* For Discussion regarding Leetcode Contests
+|  [Alex Wice]( https://www.twitch.tv/alexwice "Alex Wice") | For Discussion regarding Leetcode Contests |
   
   
 ## Online Judges ##
