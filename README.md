@@ -21,6 +21,8 @@ Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String M
 ## Getting Started
 | Name | Description |
 | --- | --- |
+
+| [Introduction](https://www.hackerearth.com/getstarted-competitive-programming/), by HackerEarth | The Complete Reference to Competitive Programming |
 | [Code Monk](https://www.hackerearth.com/practice/codemonk/), by HackerEarth | A fantastic step-by-step tutorial on the essential topics in competitive programming. |
 | [Stanford CS 97SI: Introduction to Competitive Programming Contests](http://web.stanford.edu/class/cs97si/) | Offers comprehensive lecture slides and a short list of exercise problems. |
 
