@@ -27,7 +27,7 @@ Python- Slowest (5 times slower than CPP), Beginner Friendly, Great for String M
 | [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)|Document to guide those people who want to get started or have just started with competitive programming. |
 | [Visual Algo](https://visualgo.net/en) | visualising data structures and algorithms through animation |
 | [A Competitive Programming Course](https://algo.is/competitive-programming-course/) |  website about algorithms, mathematics and programming! |
-| [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/]) | Instructor: Jaehyun Park (Stanford ACM-ICPC coach)|
+| [Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/) | Instructor: Jaehyun Park (Stanford ACM-ICPC coach)|
 ## Video Tutorials ##
 | Name | Description |
 | --- | --- |
