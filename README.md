@@ -13,7 +13,7 @@ CPP- Fastest, High Learning Curve [CP_Algorithm](https://cp-algorithms.com/)
 
 Java -2 times slower than CPP, High Learning Curve, Support for bigint
 
-Python- Slowest (5 times slower than CPP), Beginner Friednly, Great for String Manipulation and bigint
+Python- Slowest (5 times slower than CPP), Beginner Friendly, Great for String Manipulation and bigint
 
 [a side-by-side reference sheet](https://hyperpolyglot.org/cpp)
    
