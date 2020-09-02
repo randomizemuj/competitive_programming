@@ -1,3 +1,5 @@
+[Getting started with the sport of competitive programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)
+
 # Month 1
 ## Arrays , Strings & Binary Search
 
