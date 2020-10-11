@@ -81,4 +81,3 @@ Python- Slowest (5 times slower than CPP), Beginner Friendly, Great for String M
 
 Contributor:[Dushyant Singh](https://github.com/dush1729), [Aniket Kumar](www.cmmon.co)
 
-Join Our Telegram Group: https://t.me/joinchat/SAQaOVkkbUDTqHWZEUPfdg
