@@ -26,6 +26,8 @@ Hence, we encourage members to share such stuffs.
 8.  We do not favor any specific programming language for coding, it depends upon on the member to
 choose one, but we highly recommend selecting any one from Java, C/C++, Python.
 
+9. Code must be shared in pastebin, ideone.com, or any any text file to avoid long message on the group.
+
 ##  During an On-Going Contest
 1.  Taking part any contest, member must ensure to maintain full privacy of his code. He must further avoid
 sharing the code in the group, with friends, or any random person.
